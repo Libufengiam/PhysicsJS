@@ -72,7 +72,7 @@ define([
         world.add( Physics.behavior('constant-acceleration') );
     };
 
-    sim.title = "Simple bouncing balls";
+    sim.title = "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ";
     sim.sourceUrl = "https://github.com/wellcaffeinated/PhysicsJS/blob/master/examples/sims/simple.js";
 
     return sim;
